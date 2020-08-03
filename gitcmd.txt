@@ -1,0 +1,38 @@
+  502  git checkout -b Susnigdha
+  503  git branch 
+  504  git branch branch1
+  505  git branch
+  506  history| grep git > gitcmd.txt
+  508  nano gitcmd.txt 
+  509  history| grep git > gitcmd.txt
+  510  nano gitcmd.txt 
+  511  nano gitcmd.txt 
+  512  git branch branch1
+  513  git checkout -b Susnigdha
+  514  git checkout Susnigdha
+  515  git branch
+  516  git branch
+  517  git status
+  518  git add test.sh
+  520  git add test.sh
+  522  git status
+  523  git commit -m "updated test.sh"
+  524  git push -u origin Susnigdha
+  525  git add test.sh
+  526  git commit -m "again updated test.sh"
+  527  git commit -m "updated test.sh"
+  530  git commit -m "updated test.sh"
+  532  git add test.sh
+  533  git add test.sh
+  534  git commit -m "updated test.sh"
+  536  git commit -m "updated test.sh"
+  537  git push -u origin Susnigdha
+  538  git commit -m "updated test.sh"
+  544  git add test.sh
+  545  git commit -m "updated test.sh"
+  546  git push -u origin Susnigdha
+  548  git commit -m "updated test.sh"
+  549  git branch
+  550  git checkout master
+  551  git checkout Susnigdha
+  552  history | grep git > gitcmd.txt
